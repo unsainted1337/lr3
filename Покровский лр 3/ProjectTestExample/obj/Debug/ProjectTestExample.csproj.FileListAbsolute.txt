@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ProjectTestExample\bin\Debug\ProjectTestExample.exe.config
+C:\Users\user\Desktop\ProjectTestExample\bin\Debug\ProjectTestExample.exe
+C:\Users\user\Desktop\ProjectTestExample\bin\Debug\ProjectTestExample.pdb
+C:\Users\user\Desktop\ProjectTestExample\obj\Debug\ProjectTestExample.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ProjectTestExample\obj\Debug\ProjectTestExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ProjectTestExample\obj\Debug\ProjectTestExample.exe
+C:\Users\user\Desktop\ProjectTestExample\obj\Debug\ProjectTestExample.pdb
